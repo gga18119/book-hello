@@ -6,7 +6,7 @@
     <artifactId>SampleApp</artifactId>
     <packaging>war</packaging>
     <version>1.0</version>
-    <name>SampleApp</name>
+    <name>SampleHello</name>
   
     <properties>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
